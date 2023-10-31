@@ -1,0 +1,79 @@
+INFO:root:User with id '111' has changed its phone number successfully!
+INFO:root:User with id '111' has changed its password successfully!
+INFO:root:User with id '111' has changed its password successfully!
+INFO:root:User with id '111' has requested for leave!
+INFO:root:User with id '112' has changed its phone number successfully!
+INFO:root:User with id '112' has changed its password successfully!
+INFO:root:User with id '112' has requested for leave!
+INFO:root:User with id '119' has been added!
+INFO:root:User with id '112' has changed its phone number successfully!
+INFO:root:User with id '112' has changed its password successfully!
+INFO:root:User with id '112' has requested for leave!
+INFO:root:User with id '119' has been removed!
+ERROR:root:User with user_id '111' already exists but was trying to get added again. 
+INFO:root:User with id '120' has been added!
+INFO:root:User with id '120' has been removed!
+INFO:root:User with id '112' has requested for leave!
+INFO:root:User with id '111' has changed its password successfully!
+INFO:root:User with id '111' has requested for leave!
+INFO:root:User with id '111' has changed its password successfully!
+INFO:root:User with id '111' has changed its phone number successfully!
+INFO:root:User with id '111' has requested for leave!
+INFO:root:User with id '112' has changed its password successfully!
+INFO:root:User with id '112' has changed its phone number successfully!
+INFO:root:User with id '112' has requested for leave!
+INFO:root:User with id '120' has been added!
+INFO:root:User with id '120' has been removed!
+INFO:root:User with id '111' has changed its phone number successfully!
+INFO:root:User with id '111' has requested for leave!
+INFO:root:User with id '112' has changed its password successfully!
+INFO:root:User with id '112' has requested for leave!
+INFO:root:User with id '120' has been added!
+INFO:root:User with id '120' has been removed!
+INFO:root:User with id '120' has been added!
+ERROR:root:User with user_id '120' already exists but was trying to get added again. 
+INFO:root:User with id '123' has been added!
+INFO:root:User with id '123' has been removed!
+INFO:root:User with id '111' has changed its phone number successfully!
+INFO:root:User with id '111' has changed its password successfully!
+INFO:root:User with id '111' has requested for leave!
+ERROR:root:User with user_id '& C:/Users/dgupta/AppData/Local/Microsoft/WindowsApps/python3.11.exe "c:/Users/dgupta/OneDrive - WatchGuard Technologies Inc/Desktop/mini1.py/Employee_management/main.py"' does not exists but was trying to get removed. 
+INFO:root:User with id '111' has been removed!
+INFO:root:User with id '113' has changed its phone number successfully!
+INFO:root:User with id '113' has changed its password successfully!
+INFO:root:User with id '113' has requested for leave!
+INFO:root:User with id '112' has changed its phone number successfully!
+INFO:root:User with id '112' has changed its password successfully!
+INFO:root:User with id '112' has requested for leave!
+INFO:root:User with id '111' has been added!
+INFO:root:User with id '111' has changed its phone number successfully!
+INFO:root:User with id '111' has changed its password successfully!
+INFO:root:User with id '111' has changed its phone number successfully!
+INFO:root:User with id '111' has changed its password successfully!
+INFO:root:User with id '111' has requested for leave!
+INFO:root:User with id '112' has changed its phone number successfully!
+INFO:root:User with id '112' has changed its password successfully!
+INFO:root:User with id '112' has requested for leave!
+INFO:root:User with id '121' has been added!
+ERROR:root:User with user_id '129' does not exists but was trying to get removed. 
+INFO:root:User with id '121' has been removed!
+INFO:root:User with id '123' has been added!
+INFO:root:User with id '123' has been removed!
+INFO:root:User with id '111' has changed its phone number successfully!
+INFO:root:User with id '111' has changed its password successfully!
+INFO:root:User with id '111' has requested for leave!
+INFO:root:User with id '111' has changed its phone number successfully!
+INFO:root:User with id '111' has changed its password successfully!
+INFO:root:User with id '111' has requested for leave!
+INFO:root:User with id '112' has changed its phone number successfully!
+INFO:root:User with id '112' has changed its password successfully!
+ERROR:root:User with user_id '120' already exists but was trying to get added again. 
+INFO:root:User with id '121' has been added!
+ERROR:root:User with user_id '129' does not exists but was trying to get removed. 
+INFO:root:User with id '121' has been removed!
+INFO:root:User with id '111' has changed its phone number successfully!
+INFO:root:User with id '111' has changed its password successfully!
+INFO:root:User with id '111' has requested for leave!
+ERROR:root:User with user_id '120' already exists but was trying to get added again. 
+INFO:root:User with id '123' has been added!
+INFO:root:User with id '123' has been removed!
